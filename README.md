@@ -6,5 +6,5 @@ Salt Shaker On Ground
 
 Salt Shaker On Kitchen Table  
 
-![](https://eneskzlcn.github.io/3D-Salt-Shaker/onTable.png)
+![](https://eneskzlcn.github.io/3D-Salt-Shaker/onKitchenTable.png)
 
